@@ -4,7 +4,7 @@ Plugin Name: Quick Accelerator
 Plugin URI: https://poroshindmitry.com/quick-accelerator/
 Description: WordPress plugin that boosts performance and speeds up loading times.
 Author: Dmitry Poroshin
-Version: 1.8
+Version: 1.0
 Author URI: https://poroshindmitry.com/
 */
 
